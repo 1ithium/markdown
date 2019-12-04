@@ -36,7 +36,7 @@ XIX веке, а также начало добычи нефти и послед
 1. [Население](https://github.com/1ithium/markdown/blob/master/README.md#население)
     1. [Динамика и структура населения](https://github.com/1ithium/markdown/blob/master/README.md#динамика-и-структура-населения)
     1. [Этнический и конфессиональный состав, языки](https://github.com/1ithium/markdown/blob/master/README.md#этнический-и-конфессиональный-состав-языки)
-1. [Средства массовой информации](https://github.com/1ithium/markdown/blob/master/README.md#средства-массовой информации)
+1. [Средства массовой информации](https://github.com/1ithium/markdown/blob/master/README.md#средства-массовой-информации)
 1. [Города-побратимы](https://github.com/1ithium/markdown/blob/master/README.md#города-побратимы)
 
 
